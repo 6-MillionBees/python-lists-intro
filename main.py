@@ -22,7 +22,7 @@ trans = ['Car', 'Bike', 'Train', 'Plane']
 print(f'I would like to own my dad\'s {trans[0]}, But I need to get a job first :(')
 
 
-print('Extra little thing')
+print('Extra little thing!') # It's like a slot machine
 input('Press enter to roll the dice\n')
 boolian = True
 num = 0.05
